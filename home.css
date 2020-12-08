@@ -1,0 +1,31 @@
+.fa{
+    margin-right: 8px;
+}
+.row{
+    margin-top: 70px;
+}
+.featurette-heading{
+    font-size: 25px;
+}
+.hours{
+    font-size: 50px;
+}
+.container{
+    margin-top: 70px;
+}
+.watch{
+    margin-top: 70px;
+}
+ .text-center{  margin: 0;
+font-family: var(--bs-font-sans-serif);
+font-size: -12rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+background-color: #fff;
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: transparent;
+width: 250px;
+text-align: center;
+margin-left: 548px;
+margin-top: 125px} 
